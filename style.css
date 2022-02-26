@@ -13,4 +13,16 @@ h3{
 body{
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6em;
+
 }
+.glass{
+    width: 30%;
+    margin-left: 30px;
+    margin-right: 40px;
+    padding: 40 px;
+    float: left;
+}
+.glass img{
+    height: 400px;
+}
+
