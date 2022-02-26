@@ -26,3 +26,11 @@ body{
     height: 400px;
 }
 
+.test-box{
+    border-left: 2px;
+    border-right: 4px;
+    border-bottom: 6px;
+    border-right: 8px;
+    position: bottom;
+}  
+
